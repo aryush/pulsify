@@ -1,4 +1,4 @@
-This is a React based project. It uses the spotify API to fetch the name of the artist and displays the list of 10 songs at max.
+This is a React based project. It uses the spotify API to fetch the name of the artist and display artist's top tracks .
 
 ## Issues
 

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Profile extends Component {
+class ArtistProfile extends Component {
   render() {
     console.log('this.props', this.props);
     let artist = {
@@ -46,4 +46,4 @@ class Profile extends Component {
   }
 }
 
-export default Profile;
+export default ArtistProfile;
